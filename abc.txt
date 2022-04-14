@@ -1,0 +1,6 @@
+Basic Git Bash Commands
+
+>git status
+>git add .
+>git commit -m "some msg here"
+>git push
